@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **FedericoBaldi**, I'm currently working as a 'Data Engineer' at 'Roche Diagnostics' in Switzerland. I have an extensive experience with C/C++ development as a Software Engineer.
+I'm **FedericoBaldi**, I'm currently working as a 'Softwar Engineer' at 'SynSense' in Switzerland.
 
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
