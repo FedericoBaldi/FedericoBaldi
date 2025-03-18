@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **FedericoBaldi**, I'm currently working as a 'Softwar Engineer' at 'SynSense' in Switzerland.
+I'm **FedericoBaldi**, I'm currently working as a 'Softwar Engineer' at 'ABB' in Switzerland.
 
 <br />
 <p align="center" style="font-weight:bold"> 📫 <b>Connect with me</b> <p>
